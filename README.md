@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -27,6 +28,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
