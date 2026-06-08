@@ -17,6 +17,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
