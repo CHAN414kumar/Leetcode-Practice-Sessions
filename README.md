@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0788-rotated-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
