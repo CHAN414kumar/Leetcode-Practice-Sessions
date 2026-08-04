@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
