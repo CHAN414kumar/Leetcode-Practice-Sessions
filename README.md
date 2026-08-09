@@ -6,6 +6,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -21,6 +23,7 @@
 | [0039-combination-sum](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2574-left-and-right-sum-differences) |
@@ -70,4 +73,16 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0039-combination-sum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
