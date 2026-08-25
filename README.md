@@ -28,12 +28,14 @@
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
