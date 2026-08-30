@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2574-left-and-right-sum-differences) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CHAN414kumar/Leetcode-Practice-Sessions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
